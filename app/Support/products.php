@@ -37,7 +37,7 @@ return [
         'nama' => 'Kerudung Bergo Instan Jersey Pet',
         'kategori' => 'Kerudung',
         'harga' => 38000,
-        'stok' => 3, // Kritis (< 3)
+        'stok' => 2, // Kritis (< 3)
         'deskripsi' => 'Hijab instan bergo menutup dada menggunakan material elastis dan pet antitembam.',
     ],
     [
